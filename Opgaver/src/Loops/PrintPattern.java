@@ -19,7 +19,4 @@ public class PrintPattern {
             System.out.println(row);
         }
     }
-
-
-
 }

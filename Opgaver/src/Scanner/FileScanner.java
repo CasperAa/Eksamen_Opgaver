@@ -17,9 +17,5 @@ public class FileScanner{
             System.out.println(currentNumber);
 
         }
-
-
     }
-
-
 }
